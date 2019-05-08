@@ -32,6 +32,9 @@ So, let's start!
      - scroll down and click on the **Advanced Settings** link and copy **OpenID Configuration**
      ![alt text](./images/32f84c89_2019.23.04..png)
      ![alt text](./images/135c6926_2019.01.05..png)
+     - add **Redirect URL**
+     It has to be your application endpoint where you will process response from OpenID server. More about it in next steps.
+     ![alt text](./images/991960c0_2019.08.05.png)
      - click on **``Save``** button on DF admin app
      - after clicking on **``Save``** button, empty fields such like **Token Endpoint**, **Authorization Endpoint**, **Scopes**, etc. have to be filled in automatically.
 
